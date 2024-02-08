@@ -8,8 +8,6 @@ Here are some ideas to get you started:
 https://siddharth.network
 
 - 🔭 I’m currently working on Web3, defi.
-- 🌱 I’m currently learning BUSINESS💸
-- 👯 I’m looking to collaborate on outsoucing model run business.
+- 👯 I’m open to discuss the ideas and collaborate in it.
 - 📫 How to reach me: opensiddhu993@gmail.com ping me here
-- ⚡ Fun fact: Curious as hell
 
