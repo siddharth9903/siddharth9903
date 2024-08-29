@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 https://siddharth.network
 
 I write here,
-https://blog.siddharth.network
+[https://medium.com/@opensiddhu993]
 
 - 🔭 I’m currently working on Web3, defi.
 - 👯 I’m open to discuss the ideas and collaborate in it.
