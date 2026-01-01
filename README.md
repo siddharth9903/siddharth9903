@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-https://siddharth.network
+https://siddharthpatel.xyz
 
 I write here,
 [https://medium.com/@opensiddhu993]
